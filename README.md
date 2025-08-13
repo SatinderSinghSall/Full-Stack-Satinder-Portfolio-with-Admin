@@ -2,10 +2,11 @@
 
 # File Tree: Satinder Portfolio
 
-Generated on: 8/12/2025, 6:17:08 AM
+Generated on: 8/14/2025, 2:05:34 AM
 Root path: `e:\My Projects\Full-Stack App Portfolio with Admin\Satinder Portfolio`
 
 ```
+├── 📁 .git/ 🚫 (auto-hidden)
 ├── 📁 backend/
 │   ├── 📁 .git/ 🚫 (auto-hidden)
 │   ├── 📁 config/
@@ -38,64 +39,69 @@ Root path: `e:\My Projects\Full-Stack App Portfolio with Admin\Satinder Portfoli
 │   ├── 📄 package-lock.json
 │   ├── 📄 package.json
 │   └── 📄 seedAdmin.js
-└── 📁 frontend/
-    ├── 📁 .git/ 🚫 (auto-hidden)
-    ├── 📁 dist/ 🚫 (auto-hidden)
-    ├── 📁 node_modules/ 🚫 (auto-hidden)
-    ├── 📁 public/
-    │   ├── 🖼️ icon.png
-    │   └── 🖼️ vite.svg
-    ├── 📁 src/
-    │   ├── 📁 admin/
-    │   │   ├── 📄 AddBlog.jsx
-    │   │   ├── 📄 AddProject.jsx
-    │   │   ├── 📄 AddYouTube.jsx
-    │   │   ├── 📄 Blogs.jsx
-    │   │   ├── 📄 ContactMessages.jsx
-    │   │   ├── 📄 Dashboard.jsx
-    │   │   ├── 📄 Projects.jsx
-    │   │   └── 📄 YouTube.jsx
-    │   ├── 📁 assets/
-    │   │   ├── 🖼️ Satinder_Image.jpg
-    │   │   ├── 📕 Satinder_Resume.pdf
-    │   │   └── 🖼️ react.svg
-    │   ├── 📁 components/
-    │   │   ├── 📄 About.jsx
-    │   │   ├── 📄 AdminLayout.jsx
-    │   │   ├── 📄 AdminRoute.jsx
-    │   │   ├── 📄 ContactCTA_Button.jsx
-    │   │   ├── 📄 Experience.jsx
-    │   │   ├── 📄 Footer.jsx
-    │   │   ├── 📄 Navbar.jsx
-    │   │   ├── 📄 Sidebar.jsx
-    │   │   └── 📄 Skills.jsx
-    │   ├── 📁 pages/
-    │   │   ├── 📄 Blog.jsx
-    │   │   ├── 📄 BlogDetails.jsx
-    │   │   ├── 📄 Contact.jsx
-    │   │   ├── 📄 Home.jsx
-    │   │   ├── 📄 Login.jsx
-    │   │   ├── 📄 NotFound.jsx
-    │   │   ├── 📄 ProjectDetail.jsx
-    │   │   ├── 📄 Projects_User.jsx
-    │   │   ├── 📄 Services.jsx
-    │   │   ├── 📄 WatchMyYouTube.jsx
-    │   │   └── 📄 YouTubeDetails.jsx
-    │   ├── 📁 services/
-    │   ├── 🎨 App.css
-    │   ├── 📄 App.jsx
-    │   ├── 🎨 index.css
-    │   └── 📄 main.jsx
-    ├── 📄 .env.development 🚫 (auto-hidden)
-    ├── 📄 .env.production 🚫 (auto-hidden)
-    ├── 🚫 .gitignore
-    ├── 📖 README.md
-    ├── 📄 eslint.config.js
-    ├── 🌐 index.html
-    ├── 📄 package-lock.json
-    ├── 📄 package.json
-    ├── 📄 vercel.json
-    └── 📄 vite.config.js
+├── 📁 frontend/
+│   ├── 📁 .git/ 🚫 (auto-hidden)
+│   ├── 📁 dist/ 🚫 (auto-hidden)
+│   ├── 📁 node_modules/ 🚫 (auto-hidden)
+│   ├── 📁 public/
+│   │   ├── 🌐 googled50bc0bace67ba10.html
+│   │   ├── 🖼️ icon.png
+│   │   ├── 📄 robots.txt
+│   │   ├── 📄 sitemap.xml
+│   │   └── 🖼️ vite.svg
+│   ├── 📁 src/
+│   │   ├── 📁 admin/
+│   │   │   ├── 📄 AddBlog.jsx
+│   │   │   ├── 📄 AddProject.jsx
+│   │   │   ├── 📄 AddYouTube.jsx
+│   │   │   ├── 📄 Blogs.jsx
+│   │   │   ├── 📄 ContactMessages.jsx
+│   │   │   ├── 📄 Dashboard.jsx
+│   │   │   ├── 📄 Projects.jsx
+│   │   │   └── 📄 YouTube.jsx
+│   │   ├── 📁 assets/
+│   │   │   ├── 🖼️ Satinder_Image.jpg
+│   │   │   ├── 📕 Satinder_Resume.pdf
+│   │   │   └── 🖼️ react.svg
+│   │   ├── 📁 components/
+│   │   │   ├── 📄 About.jsx
+│   │   │   ├── 📄 AdminLayout.jsx
+│   │   │   ├── 📄 AdminRoute.jsx
+│   │   │   ├── 📄 ContactCTA_Button.jsx
+│   │   │   ├── 📄 Experience.jsx
+│   │   │   ├── 📄 Footer.jsx
+│   │   │   ├── 📄 Navbar.jsx
+│   │   │   ├── 📄 Sidebar.jsx
+│   │   │   └── 📄 Skills.jsx
+│   │   ├── 📁 pages/
+│   │   │   ├── 📄 Blog.jsx
+│   │   │   ├── 📄 BlogDetails.jsx
+│   │   │   ├── 📄 Contact.jsx
+│   │   │   ├── 📄 Home.jsx
+│   │   │   ├── 📄 Login.jsx
+│   │   │   ├── 📄 NotFound.jsx
+│   │   │   ├── 📄 ProjectDetail.jsx
+│   │   │   ├── 📄 Projects_User.jsx
+│   │   │   ├── 📄 Services.jsx
+│   │   │   ├── 📄 WatchMyYouTube.jsx
+│   │   │   └── 📄 YouTubeDetails.jsx
+│   │   ├── 📁 services/
+│   │   ├── 🎨 App.css
+│   │   ├── 📄 App.jsx
+│   │   ├── 🎨 index.css
+│   │   └── 📄 main.jsx
+│   ├── 📄 .env.development 🚫 (auto-hidden)
+│   ├── 📄 .env.production 🚫 (auto-hidden)
+│   ├── 🚫 .gitignore
+│   ├── 📖 README.md
+│   ├── 📄 eslint.config.js
+│   ├── 🌐 index.html
+│   ├── 📄 package-lock.json
+│   ├── 📄 package.json
+│   ├── 📄 vercel.json
+│   └── 📄 vite.config.js
+├── 🚫 .gitignore
+└── 📖 README.md
 ```
 
 ---
